@@ -230,7 +230,7 @@ void analyzeLogarithmicEfficiency(int n) {
 
     cout << "Logarithmic Step Count for N=" << n << ": " << stepCount << " steps." << endl;
     // TODO (TASK 10 Comment): State the Big O complexity class of this algorithm below:
-    // Complexity: O(__log N_ ___)
+    // Complexity: O(_log N_ __)
 }
 
 
